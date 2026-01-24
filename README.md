@@ -2,18 +2,26 @@
 
 Auto-generated Italian learning podcast episodes in Michel Thomas style.
 
+## Prerequisites
+
+- [uv](https://github.com/astral-sh/uv) - Fast Python package manager
+- OpenAI API key
+
 ## Setup
 
 ```bash
-# Install dependencies
-pip install -r requirements.txt
+# Install uv (if not already installed)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Sync dependencies (uv will create venv automatically)
+uv sync
 
 # Configure API keys
 cp .env.example .env
 # Edit .env with your OpenAI API key
 
 # Generate first episode
-python generate.py
+uv run generate.py
 ```
 
 ## Phase 1 - MVP

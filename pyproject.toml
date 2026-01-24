@@ -1,0 +1,20 @@
+[project]
+name = "italian-podcast-generator"
+version = "0.1.0"
+description = "Auto-generated Italian learning podcast episodes in Michel Thomas style"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.12.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+]
+
+[project.optional-dependencies]
+audio = [
+    "pydub>=0.25.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
