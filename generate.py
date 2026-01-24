@@ -130,14 +130,27 @@ def parse_dialogue(script):
     lines = []
     for line in script.split('\n'):
         line = line.strip()
-        if line.startswith('TEACHER:'):
-            text = line.replace('TEACHER:', '').strip()
-            lines.append(('TEACHER', text))
-        elif line.startswith('STUDENT:'):
-            text = line.replace('STUDENT:', '').strip()
-            lines.append(('STUDENT', text))
+        if not line:
+            continue
+
+        # Try multiple formats that GPT might use
+        if line.startswith('TEACHER:') or line.startswith('Teacher:'):
+            text = line.replace('TEACHER:', '').replace('Teacher:', '').strip()
+            if text:
+                lines.append(('TEACHER', text))
+        elif line.startswith('STUDENT:') or line.startswith('Student:') or line.startswith('ALEX:') or line.startswith('Alex:'):
+            text = line.replace('STUDENT:', '').replace('Student:', '').replace('ALEX:', '').replace('Alex:', '').strip()
+            if text:
+                lines.append(('STUDENT', text))
 
     print(f"📋 Parsed {len(lines)} dialogue lines")
+
+    if len(lines) == 0:
+        print("⚠️  WARNING: No dialogue lines parsed!")
+        print("Script preview (first 500 chars):")
+        print(script[:500])
+        print("\n💡 The script will be saved for inspection.")
+
     return lines
 
 
@@ -201,18 +214,23 @@ def main():
     # Step 1: Generate script
     script = generate_script(VOCAB_WORDS)
 
-    # Step 2: Parse dialogue
-    dialogue = parse_dialogue(script)
-
-    # Step 3: Generate audio
-    output_file = episodes_dir / f"episode-{episode_num:03d}.mp3"
-    generate_audio(dialogue, output_file)
-
-    # Step 4: Save script for reference
+    # Step 2: Save script FIRST (so we can inspect if parsing fails)
     script_file = episodes_dir / f"episode-{episode_num:03d}-script.txt"
     with open(script_file, 'w') as f:
         f.write(script)
     print(f"📄 Script saved to {script_file}")
+
+    # Step 3: Parse dialogue
+    dialogue = parse_dialogue(script)
+
+    # If parsing failed, fall back to using entire script as one block
+    if len(dialogue) == 0:
+        print("⚠️  Falling back to using entire script for audio generation")
+        dialogue = [('TEACHER', script)]
+
+    # Step 4: Generate audio
+    output_file = episodes_dir / f"episode-{episode_num:03d}.mp3"
+    generate_audio(dialogue, output_file)
 
     print("\n" + "=" * 60)
     print("✨ Episode generation complete!")
