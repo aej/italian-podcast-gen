@@ -1,0 +1,74 @@
+TEACHER: Ciao, Alex! Come stai oggi?  
+STUDENT: Ciao! Sto bene, grazie! E tu?  
+TEACHER: Benissimo, grazie! Oggi, ci concentreremo su alcuni verbi italiani. Iniziamo con il primo verbo. Pronto?  
+STUDENT: Sì, pronto!  
+
+TEACHER: In italiano, "to eat" è "mangiare." Ascolta: Io mangio la pizza.  
+[PAUSE 4 seconds]  
+STUDENT: Io mangio la pizza.  
+TEACHER: Ottimo! Now, "mangiare" is an -are verb. When we want to say "I eat," we drop the -are and add -o. So, "mangiare" becomes "mangio."  
+STUDENT: Mangio.  
+TEACHER: Perfetto! Can you say, "Io mangio un panino"?  
+[PAUSE 7 seconds]  
+STUDENT: Io mangio un panino.  
+TEACHER: Very good! Now let's try to make a simple sentence. Can you say "I eat pasta"?  
+[PAUSE 7 seconds]  
+STUDENT: Io mangio la pasta.  
+TEACHER: Excellent! Just a small correction: we say "la pasta." Well done!  
+
+TEACHER: Now, let's move on to the next verb. In italiano, "to drink" è "bere." Ascolta: Io bevo l'acqua.  
+[PAUSE 4 seconds]  
+STUDENT: Io bevo l'acqua.  
+TEACHER: Perfetto! "Bere" is also an irregular verb. We drop the -ere and add -o for "I drink." So, "bere" becomes "bevo." Can you repeat that?  
+[PAUSE 4 seconds]  
+STUDENT: Bevo.  
+TEACHER: Ottimo! Now, can you try to say "I drink coffee"?  
+[PAUSE 7 seconds]  
+STUDENT: Io bevo il caffè.  
+TEACHER: Excellent! Just a note: we say "il caffè." You're doing really well!  
+
+TEACHER: Now, let's try another verb. "To speak" in italiano è "parlare." Ascolta: Io parlo italiano.  
+[PAUSE 4 seconds]  
+STUDENT: Io parlo italiano.  
+TEACHER: Very good! For "parlare," we drop the -are and add -o. So, "parlare" becomes "parlo." Can you repeat that?  
+[PAUSE 4 seconds]  
+STUDENT: Parlo.  
+TEACHER: Ottimo! Now, can you say "I speak English"?  
+[PAUSE 7 seconds]  
+STUDENT: Io parlo inglese.  
+TEACHER: Great job! Just remember, we say "inglese" without the article. Perfect!  
+
+TEACHER: Now let’s move to our last verb for today. "To watch" in italiano è "guardare." Ascolta: Io guardo la televisione.  
+[PAUSE 4 seconds]  
+STUDENT: Io guardo la televisione.  
+TEACHER: Excellent! For "guardare," we drop the -are and add -o, so "guardare" becomes "guardo." Can you repeat that?  
+[PAUSE 4 seconds]  
+STUDENT: Guardo.  
+TEACHER: Perfetto! Now, can you say "I watch a movie"?  
+[PAUSE 7 seconds]  
+STUDENT: Io guardo un film.  
+TEACHER: Great! Just a small correction: we say "un film." You're doing wonderfully!  
+
+TEACHER: Now, let's practice building sentences. Can you say, "I eat and I drink"?  
+[PAUSE 7 seconds]  
+STUDENT: Io mangio e bevo.  
+TEACHER: Very good! Now, can you say, "I speak and I watch"?  
+[PAUSE 7 seconds]  
+STUDENT: Io parlo e guardo.  
+TEACHER: Excellent! Just a note: remember to use the correct articles when needed. Now, can you say, "I eat pizza and I drink water"?  
+[PAUSE 7 seconds]  
+STUDENT: Io mangio la pizza e bevo l'acqua.  
+TEACHER: Great job! Just a small correction: it’s "la pizza" and "l'acqua." You’re really getting the hang of this!  
+
+TEACHER: Now, let's imagine we are at a café. How would you say, "I would like to eat a sandwich"?  
+[PAUSE 7 seconds]  
+STUDENT: Io voglio mangiare un panino.  
+TEACHER: Very good! Just a note: we say "un panino." Now, how would you say, "I would like to drink a coffee"?  
+[PAUSE 7 seconds]  
+STUDENT: Io voglio bere un caffè.  
+TEACHER: Excellent! Remember, "un caffè." You’re doing amazing!  
+
+TEACHER: Let’s recap what we have learned today. We covered four verbs: "mangiare," "bere," "parlare," and "guardare." You’ve done a fantastic job!  
+STUDENT: Grazie! È stato divertente!  
+TEACHER: Ottimo lavoro! A presto!  
+STUDENT: A presto!
