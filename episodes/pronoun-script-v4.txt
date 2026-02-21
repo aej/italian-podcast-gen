@@ -1,0 +1,887 @@
+## INTRO
+
+[IT:Ciao! Benvenuti!] Welcome to today's episode. I am your host, an Italian language teacher, here to guide you through the essential parts of Italian grammar. Today, we are going to focus on Italian pronouns. Pronouns are crucial for speaking Italian naturally and fluently because they help you avoid unnecessary repetition and make your sentences more dynamic.
+
+[PAUSE 3s]
+
+We will cover five main types of pronouns. First, we have direct object pronouns like [IT:lo] and [IT:la], which are used to replace direct objects in a sentence. For example, instead of saying "I see the book" repeatedly, you can say "I see it." 
+
+[PAUSE 2s]
+
+Next, we have indirect object pronouns like [IT:mi] and [IT:ti], which replace indirect objects, such as "to me" or "to you."
+
+[PAUSE 2s]
+
+The third type is reflexive pronouns. These are used when the subject and the object of the sentence are the same, such as in "I wash myself," which in Italian might use pronouns like [IT:si].
+
+[PAUSE 2s]
+
+The fourth pronoun we will discuss is [IT:ne]. This pronoun is used to replace a phrase introduced by "of" or to indicate quantities, and it can be quite a versatile tool in Italian conversations.
+
+[PAUSE 2s]
+
+Lastly, we have combined pronouns, which occur when direct and indirect object pronouns are used together in a sentence. This might sound a bit complex, but we will break it down into simple steps.
+
+[PAUSE 3s]
+
+By understanding these pronouns, you will be able to enhance your Italian communication skills significantly. So, let's dive deeper into each type and see how they function in everyday Italian. Let's begin!
+
+[PAUSE 4s]
+
+## SECTION 1: Direct Object Pronouns
+
+Now let's start with direct object pronouns. These little words are essential in making your Italian sound more fluent and natural.
+
+[PAUSE 2s]
+
+Direct object pronouns in Italian replace the direct object in a sentence. A direct object is the noun or pronoun that receives the action of the verb directly, without any preposition like "a" or "to" in English. For example, in the sentence "I see the book," "the book" is the direct object because it receives the action of "see." In Italian, we could replace "the book" with a direct object pronoun.
+
+[PAUSE 3s]
+
+### The Forms of Direct Object Pronouns
+
+Here are the direct object pronouns in Italian:
+
+[IT:mi] - me
+[IT:ti] - you, in the informal singular
+[IT:lo] - him, or it when referring to something masculine
+[IT:la] - her, or it when referring to something feminine
+[IT:ci] - us
+[IT:vi] - you all, in the informal plural
+[IT:li] - them, when referring to masculine nouns
+[IT:le] - them, when referring to feminine nouns
+
+[PAUSE 3s]
+
+Let me repeat those slowly: [IT:mi]... [IT:ti]... [IT:lo]... [IT:la]... [IT:ci]... [IT:vi]... [IT:li]... [IT:le].
+
+[PAUSE 4s]
+
+### Position Rules for Direct Object Pronouns
+
+In Italian, direct object pronouns usually precede the conjugated verb. For instance:
+
+[IT:Ti vedo ogni giorno] - I see you every day.
+
+[PAUSE 2s]
+
+[IT:La chiamo domani] - I call her tomorrow.
+
+[PAUSE 3s]
+
+However, when an infinitive verb is involved, the pronoun can be attached to the end of the infinitive:
+
+[IT:Voglio vederlo] - I want to see him, or I want to see it when it's masculine.
+
+[PAUSE 2s]
+
+[IT:Devo chiamarla] - I must call her, or I must call it when it's feminine.
+
+[PAUSE 4s]
+
+### Elision with [IT:lo] and [IT:la]
+
+When [IT:lo] or [IT:la] comes before a verb that starts with a vowel, they become [IT:l'] for ease of pronunciation. Note that this does not happen with [IT:li] or [IT:le].
+
+[PAUSE 2s]
+
+[IT:L'ascolto] - I listen to it, him, or her.
+
+[PAUSE 2s]
+
+[IT:L'ho comprato] - I bought it, when referring to something masculine.
+
+[PAUSE 2s]
+
+[IT:L'ho comprata] - I bought it, when referring to something feminine. Notice how the ending changes to agree.
+
+[PAUSE 4s]
+
+### Agreement in Passato Prossimo
+
+A critical aspect of using direct object pronouns in Italian is agreement in passato prossimo. When the direct object pronoun precedes a compound tense like passato prossimo, the past participle must agree in gender and number with the pronoun.
+
+[PAUSE 3s]
+
+[IT:L'ho vista] - I saw her. The "a" in [IT:vista] agrees with [IT:la] which is feminine.
+
+[PAUSE 2s]
+
+[IT:L'ho visto] - I saw him. The "o" in [IT:visto] agrees with [IT:lo] which is masculine.
+
+[PAUSE 2s]
+
+[IT:Li ho visti ieri] - I saw them yesterday, when referring to masculine nouns.
+
+[PAUSE 2s]
+
+[IT:Le ho lette] - I read them, when referring to feminine nouns.
+
+[PAUSE 4s]
+
+### More Examples
+
+Let's look at a few more examples to solidify your understanding:
+
+[IT:Lo compro] - I buy it.
+
+[PAUSE 1s]
+
+[IT:Ci aspetti?] - Are you waiting for us?
+
+[PAUSE 1s]
+
+[IT:Vi conosco bene] - I know you all well.
+
+[PAUSE 1s]
+
+[IT:Li mangio spesso] - I eat them often, when talking about masculine items.
+
+[PAUSE 1s]
+
+[IT:Le guardo] - I watch them, when talking about feminine items.
+
+[PAUSE 1s]
+
+[IT:Posso aiutarti?] - Can I help you?
+
+[PAUSE 1s]
+
+[IT:Li ho visti] - I saw them, masculine plural.
+
+[PAUSE 1s]
+
+[IT:Le ho viste] - I saw them, feminine plural.
+
+[PAUSE 1s]
+
+[IT:Non ti sento] - I don't hear you.
+
+[PAUSE 1s]
+
+[IT:Mi vedi?] - Do you see me?
+
+[PAUSE 1s]
+
+[IT:L'hai trovato?] - Did you find it, when it's masculine, or did you find him?
+
+[PAUSE 1s]
+
+[IT:L'hanno portata] - They brought it or her, when it's feminine.
+
+[PAUSE 1s]
+
+[IT:Non l'ho capito] - I didn't understand it or him, when it's masculine.
+
+[PAUSE 1s]
+
+[IT:Non l'ho capita] - I didn't understand it or her, when it's feminine.
+
+[PAUSE 1s]
+
+[IT:Ci aiuti] - You help us.
+
+[PAUSE 1s]
+
+[IT:Vi chiamerò] - I will call you all.
+
+[PAUSE 4s]
+
+### Common Verbs with Direct Object Pronouns
+
+Direct object pronouns are commonly used with verbs such as:
+
+[IT:vedere] - to see
+[IT:guardare] - to watch
+[IT:ascoltare] - to listen
+[IT:chiamare] - to call
+[IT:comprare] - to buy
+[IT:trovare] - to find
+[IT:aspettare] - to wait
+
+[PAUSE 4s]
+
+### Recap of the Rules
+
+Let me recap the rules. Direct pronouns go before the conjugated verb. They attach to infinitives. They cause agreement in passato prossimo. [IT:Lo] and [IT:la] become [IT:l'] before vowels, but [IT:li] and [IT:le] do not.
+
+[PAUSE 3s]
+
+Understanding and using direct object pronouns will greatly enhance your ability to communicate in Italian. Practice these rules and examples to become more comfortable with their usage.
+
+[PAUSE 4s]
+
+## SECTION 2: Indirect Object Pronouns
+
+Now let's move on to indirect object pronouns. These pronouns answer the question "to whom?" or "for whom?" and are used to replace indirect objects in sentences. In Italian, indirect objects are often introduced by the preposition [IT:a].
+
+[PAUSE 3s]
+
+### What Indirect Pronouns Replace
+
+Indirect object pronouns in Italian replace phrases that include "to whom" or "for whom." For instance, in the sentence "I give the book to Maria," "to Maria" is the indirect object. In Italian, you would use an indirect pronoun to replace "Maria" and simplify the sentence. So, "I give the book to her" becomes [IT:Le do il libro].
+
+[PAUSE 4s]
+
+### Forms of Indirect Object Pronouns
+
+Here are the forms of Italian indirect object pronouns:
+
+[IT:mi] – to me
+[IT:ti] – to you, singular informal
+[IT:gli] – to him
+[IT:le] – to her
+[IT:ci] – to us
+[IT:vi] – to you, plural
+[IT:gli] – to them
+
+[PAUSE 2s]
+
+Notice that [IT:gli] can mean both "to him" and "to them," but the context usually makes it clear which is intended.
+
+[PAUSE 4s]
+
+### NO Agreement in Passato Prossimo
+
+A crucial difference to remember is that unlike direct object pronouns, indirect object pronouns do not require agreement with the past participle in passato prossimo. This means you do not change the past participle to agree with the indirect object pronoun.
+
+[PAUSE 3s]
+
+For example, in [IT:Le ho parlato] - I spoke to her - the past participle [IT:parlato] does not change. No agreement needed.
+
+[PAUSE 4s]
+
+### Position of Indirect Object Pronouns
+
+Indirect object pronouns occupy the same position in a sentence as direct object pronouns. They usually come before the conjugated verb. In compound tenses, they precede the auxiliary verb. Let's look at some examples to illustrate this:
+
+[PAUSE 2s]
+
+[IT:Mi parla] – He speaks to me
+
+[PAUSE 1s]
+
+[IT:Ti telefono] – I call you
+
+[PAUSE 1s]
+
+[IT:Gli scrivo] – I write to him
+
+[PAUSE 1s]
+
+[IT:Le do il libro] – I give her the book
+
+[PAUSE 1s]
+
+[IT:Ci manda un messaggio] – He sends us a message
+
+[PAUSE 1s]
+
+[IT:Vi spiego] – I explain to you all
+
+[PAUSE 1s]
+
+[IT:Gli piace] – He likes it, literally, "It pleases him"
+
+[PAUSE 1s]
+
+[IT:Le ho parlato] – I spoke to her, and remember, no agreement with the past participle!
+
+[PAUSE 1s]
+
+[IT:Gli ho telefonato] – I called him, again, no agreement!
+
+[PAUSE 1s]
+
+[IT:Ti ho scritto] – I wrote to you
+
+[PAUSE 1s]
+
+[IT:Mi ha dato una mano] – He gave me a hand
+
+[PAUSE 1s]
+
+[IT:Ci ha raccontato una storia] – She told us a story
+
+[PAUSE 1s]
+
+[IT:Vi ho detto la verità] – I told you all the truth
+
+[PAUSE 1s]
+
+[IT:Gli ho comprato un regalo] – I bought them a gift
+
+[PAUSE 1s]
+
+[IT:Le ho mandato una lettera] – I sent her a letter
+
+[PAUSE 1s]
+
+[IT:Ti porto un caffè] – I bring you a coffee
+
+[PAUSE 1s]
+
+[IT:Mi ha chiesto un favore] – He asked me a favor
+
+[PAUSE 1s]
+
+[IT:Le hanno fatto una sorpresa] – They surprised her
+
+[PAUSE 1s]
+
+[IT:Vi do un consiglio] – I give you all a piece of advice
+
+[PAUSE 1s]
+
+[IT:Gli ho prestato la mia macchina] – I lent them my car
+
+[PAUSE 4s]
+
+### Direct vs. Indirect Comparison
+
+To understand the difference between direct and indirect object pronouns, let's compare some examples:
+
+[PAUSE 2s]
+
+[IT:Lo vedo] – I see him. This is direct - him is the direct object.
+
+[PAUSE 2s]
+
+[IT:Gli parlo] – I speak to him. This is indirect - to him.
+
+[PAUSE 2s]
+
+[IT:La chiamo] – I call her. Direct - her is the direct object.
+
+[PAUSE 2s]
+
+[IT:Le telefono] – I phone her. Indirect - to her.
+
+[PAUSE 3s]
+
+In each case, the direct object pronoun replaces the direct object, the thing directly affected by the verb, while the indirect object pronoun replaces the recipient of the action.
+
+[PAUSE 4s]
+
+### Repeat Rules in English
+
+To summarize:
+
+Number one: Indirect object pronouns replace the indirect object of the verb - the person to whom or for whom the action is done.
+
+[PAUSE 2s]
+
+Number two: The forms are [IT:mi], [IT:ti], [IT:gli], [IT:le], [IT:ci], [IT:vi], and [IT:gli].
+
+[PAUSE 2s]
+
+Number three: There is no agreement with the past participle in passato prossimo when using indirect object pronouns.
+
+[PAUSE 2s]
+
+Number four: Indirect object pronouns are placed before the conjugated verb or auxiliary verb in compound tenses.
+
+[PAUSE 4s]
+
+### List of Verbs Commonly Used with Indirect Pronouns
+
+Many Italian verbs naturally take an indirect object pronoun because they involve actions done to or for someone. Some of the most common include:
+
+[IT:parlare a] – to speak to
+[IT:telefonare a] – to phone
+[IT:dare a] – to give
+[IT:mandare a] – to send
+[IT:raccontare a] – to tell
+[IT:dire a] – to say
+[IT:offrire a] – to offer
+[IT:portare a] – to bring
+[IT:chiedere a] – to ask
+[IT:prestare a] – to lend
+
+[PAUSE 2s]
+
+Additionally, some special verbs inherently use indirect objects, such as:
+
+[IT:piacere] – to like, literally, "to be pleasing to"
+[IT:sembrare] – to seem
+[IT:bastare] – to suffice
+
+[PAUSE 3s]
+
+By understanding and practicing these indirect object pronouns, you'll gain greater fluency and confidence in your Italian conversations. Keep practicing with the examples provided, and soon using these pronouns will become second nature.
+
+[PAUSE 4s]
+
+## SECTION 3: Reflexive Pronouns
+
+Next up, let's talk about reflexive pronouns in Italian. Reflexive pronouns are an essential part of the Italian language, as they allow us to express actions where the subject and object are the same. This means the action reflects back on the subject.
+
+[PAUSE 3s]
+
+In Italian, reflexive pronouns are used when the subject of a verb is also the object. The action is done and received by the same person. Here are the forms of reflexive pronouns in Italian:
+
+[IT:mi] for "myself"
+[IT:ti] for "yourself", singular
+[IT:si] for "himself", "herself", "itself", or "themselves"
+[IT:ci] for "ourselves"
+[IT:vi] for "yourselves", plural
+[IT:si] again for "themselves" or "each other" in reciprocal actions
+
+[PAUSE 3s]
+
+Let's look at some examples to illustrate these pronouns in action:
+
+[PAUSE 2s]
+
+[IT:Mi lavo] - I wash myself.
+
+[PAUSE 1s]
+
+[IT:Ti vesti] - You dress yourself.
+
+[PAUSE 1s]
+
+[IT:Si sveglia] - He or she wakes up.
+
+[PAUSE 1s]
+
+[IT:Ci prepariamo] - We prepare ourselves.
+
+[PAUSE 1s]
+
+[IT:Vi alzate] - You all get up.
+
+[PAUSE 1s]
+
+[IT:Si divertono] - They enjoy themselves.
+
+[PAUSE 4s]
+
+Now, it's important to note that in the past tense, specifically the passato prossimo, Italian reflexive verbs always use the auxiliary verb [IT:essere]. This is crucial because it affects how the past participle agrees with the subject in gender and number.
+
+[PAUSE 3s]
+
+For example:
+
+[IT:Mi sono lavato] - I washed myself, when the speaker is masculine.
+
+[PAUSE 2s]
+
+[IT:Mi sono lavata] - I washed myself, when the speaker is feminine.
+
+[PAUSE 2s]
+
+[IT:Si sono visti] - They saw each other.
+
+[PAUSE 2s]
+
+[IT:Ci siamo divertiti] - We enjoyed ourselves, when it's a masculine group or a mixed group.
+
+[PAUSE 3s]
+
+Let's add a few more examples for clarity:
+
+[IT:Si è alzato] - He got up.
+
+[PAUSE 1s]
+
+[IT:Si è alzata] - She got up.
+
+[PAUSE 1s]
+
+[IT:Ti sei lavato] - You washed yourself, when you're masculine.
+
+[PAUSE 1s]
+
+[IT:Vi siete svegliati] - You all woke up, when it's masculine or a mixed group.
+
+[PAUSE 1s]
+
+[IT:Si sono incontrati] - They met each other.
+
+[PAUSE 4s]
+
+There are three main types of reflexive verbs in Italian: true reflexive, reciprocal, and pronominal.
+
+[PAUSE 2s]
+
+**True Reflexive**: This is when the subject performs an action on itself. For example, [IT:Mi lavo] - I wash myself.
+
+[PAUSE 2s]
+
+**Reciprocal**: This is when two or more subjects perform an action on each other. For example, [IT:Si sono visti] - They saw each other.
+
+[PAUSE 2s]
+
+**Pronominal**: These verbs include reflexive pronouns but don't have a direct translation into English. They often express actions that concern the subject in a particular way. For instance, [IT:Me ne vado] - I'm leaving - where [IT:andarsene] is a pronominal verb.
+
+[PAUSE 4s]
+
+Common reflexive verbs include [IT:svegliarsi] - to wake up, [IT:alzarsi] - to get up, and [IT:lavarsi] - to wash oneself. These verbs can greatly enrich your Italian vocabulary as they are used frequently in daily conversation.
+
+[PAUSE 3s]
+
+To wrap up this section, let's review the key points about reflexive pronouns:
+
+[PAUSE 2s]
+
+One: Reflexive pronouns are used when the subject and object of the verb are the same.
+
+[PAUSE 2s]
+
+Two: The forms are [IT:mi], [IT:ti], [IT:si], [IT:ci], [IT:vi], and [IT:si].
+
+[PAUSE 2s]
+
+Three: In the passato prossimo, reflexive verbs always use [IT:essere] as the auxiliary verb.
+
+[PAUSE 2s]
+
+Four: The past participle must agree in gender and number with the subject.
+
+[PAUSE 3s]
+
+I hope this section has made the concept of reflexive pronouns in Italian clearer for you. Remember to practice these forms in your conversations and exercises to become more comfortable using them.
+
+[PAUSE 4s]
+
+## SECTION 4: NE Pronoun
+
+Moving on to our next topic, let's explore the fascinating world of the NE pronoun. This tiny yet mighty word plays a crucial role in Italian, serving two main purposes: indicating quantity and referring to a topic.
+
+[PAUSE 3s]
+
+Firstly, let's talk about NE's function in terms of quantity. NE is often used to express 'of it' or 'of them' in English. It allows speakers to avoid repetition and provide clarity without overloading sentences.
+
+[PAUSE 3s]
+
+For example:
+
+[IT: Ne voglio due] - I want two of them.
+
+[PAUSE 1s]
+
+[IT: Ne ho tre] - I have three of them.
+
+[PAUSE 1s]
+
+[IT: Ne prendo un po'] - I take some of it.
+
+[PAUSE 1s]
+
+[IT: Ne ho comprati tre] - I bought three of them, when they're masculine.
+
+[PAUSE 1s]
+
+[IT: Ne ho comprate due] - I bought two of them, when they're feminine.
+
+[PAUSE 1s]
+
+[IT: Ne bevo molto] - I drink a lot of it.
+
+[PAUSE 1s]
+
+[IT: Ne hai?] - Do you have any?
+
+[PAUSE 1s]
+
+[IT: Vuoi comprarne?] - Do you want to buy some?
+
+[PAUSE 3s]
+
+In these examples, NE replaces the partitive phrase and precedes the verb. Notice how the verb sometimes changes to agree with the quantity, especially when specific amounts are involved, as in examples four and five. This agreement is optional but can provide additional clarity.
+
+[PAUSE 4s]
+
+Secondly, NE is used to refer to a topic or a subject that has been previously mentioned, often translated as 'about it' in English.
+
+[PAUSE 2s]
+
+Here are some examples:
+
+[IT: Ne parliamo] - We talk about it.
+
+[PAUSE 2s]
+
+[IT: Gliene parlo] - I talk to him or her about it.
+
+[PAUSE 3s]
+
+In these sentences, NE represents an idea or a subject that is already known in the conversation, eliminating the need to repeat information.
+
+[PAUSE 4s]
+
+Now, let's dive into the positioning of NE. Typically, NE is placed before the conjugated verb. However, when used with infinitives, imperatives, or gerunds, it can be attached to the end. This flexibility allows for fluidity in sentence construction:
+
+[PAUSE 2s]
+
+[IT: Parlane con lui] - Talk about it with him.
+
+[PAUSE 1s]
+
+[IT: È importante parlarne] - It's important to talk about it.
+
+[PAUSE 1s]
+
+[IT: Stiamo parlandone] - We are talking about it.
+
+[PAUSE 1s]
+
+[IT: Ne parlerai domani?] - Will you talk about it tomorrow?
+
+[PAUSE 1s]
+
+[IT: Non posso farne a meno] - I can't do without it.
+
+[PAUSE 4s]
+
+To recap, NE serves two primary functions: indicating quantity - meaning 'of it' or 'of them' - and referencing a topic - meaning 'about it'. It typically precedes the verb but can be attached to infinitives, imperatives, and gerunds. While quantity agreement is optional, it can enhance understanding when specific numbers are involved.
+
+[PAUSE 3s]
+
+Remember, mastering NE takes practice. Start by identifying situations where NE can simplify your sentences, and gradually incorporate it into your conversations. With time, using NE will become second nature, enhancing your fluency and making your Italian sound more natural.
+
+[PAUSE 4s]
+
+## SECTION 5: Combined Pronouns
+
+Building on everything we've learned so far, let's now tackle combined pronouns. Specifically, we will explore what happens when two pronouns meet, how to apply the "E" rule, the special forms for the third person, and the order of pronouns.
+
+[PAUSE 3s]
+
+### When Two Pronouns Meet
+
+In Italian, it's common to use both indirect and direct object pronouns together in a sentence. This can seem a bit daunting at first, but with practice, it becomes second nature. The key is understanding the order and transformation of pronouns.
+
+[PAUSE 4s]
+
+### The "E" Rule: [IT:mi]/[IT:ti]/[IT:ci]/[IT:vi] → [IT:me]/[IT:te]/[IT:ce]/[IT:ve]
+
+When combining pronouns, the indirect object pronouns [IT:mi] - to me, [IT:ti] - to you, [IT:ci] - to us, and [IT:vi] - to you all - change to [IT:me], [IT:te], [IT:ce], and [IT:ve] respectively. This transformation occurs when they are followed by a direct object pronoun or [IT:ne].
+
+[PAUSE 3s]
+
+Here are some examples:
+
+[IT:Me lo dai?] - Do you give it to me?
+
+[PAUSE 1s]
+
+[IT:Te la compro] - I buy it for you
+
+[PAUSE 1s]
+
+[IT:Ce li portano] - They bring them to us
+
+[PAUSE 1s]
+
+[IT:Ve le mando] - I send them to you all
+
+[PAUSE 4s]
+
+### Special [IT:GLIELO] Forms for 3rd Person
+
+When it comes to the third person, things get a bit more specific. The indirect object pronouns [IT:gli] - to him or to them - and [IT:le] - to her - combine with direct object pronouns to form special words.
+
+[PAUSE 3s]
+
+For example:
+
+[IT:Glielo do] - I give it to him, to her, or to them
+
+[PAUSE 1s]
+
+[IT:Gliela mando] - I send it to him, to her, or to them
+
+[PAUSE 1s]
+
+[IT:Glieli porto] - I bring them to him, to her, or to them
+
+[PAUSE 1s]
+
+[IT:Gliele dico] - I tell them to him, to her, or to them
+
+[PAUSE 4s]
+
+### Order: Indirect + Direct or [IT:NE]
+
+The order of pronouns in Italian is quite logical: the indirect object pronoun always comes before the direct object pronoun or [IT:ne]. This is a fundamental rule and applies consistently.
+
+[PAUSE 3s]
+
+Here are some examples to illustrate this:
+
+[IT:Me ne dai?] - Do you give me some?
+
+[PAUSE 1s]
+
+[IT:Te ne parlo] - I talk to you about it
+
+[PAUSE 1s]
+
+[IT:Gliene ho parlato] - I talked to him or her about it
+
+[PAUSE 1s]
+
+[IT:Me l'ha dato] - He gave it to me
+
+[PAUSE 1s]
+
+[IT:Te lo voglio dire] - I want to tell it to you
+
+[PAUSE 3s]
+
+Now, let's add a few more examples to solidify your understanding:
+
+[IT:Ce ne portano] - They bring us some
+
+[PAUSE 1s]
+
+[IT:Ve lo dico] - I tell it to you all
+
+[PAUSE 1s]
+
+[IT:Gliene mando] - I send him or her some
+
+[PAUSE 1s]
+
+[IT:Me li hai dati?] - Did you give them to me?
+
+[PAUSE 1s]
+
+[IT:Te le posso dare] - I can give them to you
+
+[PAUSE 1s]
+
+[IT:Ce lo spiegano] - They explain it to us
+
+[PAUSE 1s]
+
+[IT:Ve ne parlo] - I talk to you all about it
+
+[PAUSE 4s]
+
+### Quick Reference Chart
+
+Let's quickly recap with a reference chart to help you remember these combinations:
+
+[IT:mi] plus [IT:lo] becomes [IT:me lo]
+[IT:mi] plus [IT:la] becomes [IT:me la]
+[IT:mi] plus [IT:li] becomes [IT:me li]
+[IT:mi] plus [IT:le] becomes [IT:me le]
+
+[PAUSE 2s]
+
+[IT:ti] plus [IT:lo] becomes [IT:te lo]
+[IT:ti] plus [IT:la] becomes [IT:te la]
+[IT:ti] plus [IT:li] becomes [IT:te li]
+[IT:ti] plus [IT:le] becomes [IT:te le]
+
+[PAUSE 2s]
+
+[IT:gli] or [IT:le] plus [IT:lo] becomes [IT:glielo]
+[IT:gli] or [IT:le] plus [IT:la] becomes [IT:gliela]
+[IT:gli] or [IT:le] plus [IT:li] becomes [IT:glieli]
+[IT:gli] or [IT:le] plus [IT:le] becomes [IT:gliele]
+
+[PAUSE 2s]
+
+[IT:ci] plus [IT:lo] becomes [IT:ce lo]
+[IT:ci] plus [IT:la] becomes [IT:ce la]
+[IT:ci] plus [IT:li] becomes [IT:ce li]
+[IT:ci] plus [IT:le] becomes [IT:ce le]
+
+[PAUSE 2s]
+
+[IT:vi] plus [IT:lo] becomes [IT:ve lo]
+[IT:vi] plus [IT:la] becomes [IT:ve la]
+[IT:vi] plus [IT:li] becomes [IT:ve li]
+[IT:vi] plus [IT:le] becomes [IT:ve le]
+
+[PAUSE 3s]
+
+By keeping these rules and examples in mind, you'll be well-equipped to understand and use combined pronouns in Italian. Remember, practice makes perfect, so keep using them in your conversations and writing.
+
+[PAUSE 4s]
+
+## CONCLUSION
+
+So, to recap what we covered today: we explored five types of Italian pronouns.
+
+[PAUSE 2s]
+
+First, direct object pronouns like [IT:lo] and [IT:la], which replace nouns that receive the action directly.
+
+[PAUSE 2s]
+
+Second, indirect object pronouns like [IT:gli] and [IT:le], which show to whom or for whom the action is done.
+
+[PAUSE 2s]
+
+Third, reflexive pronouns, including [IT:mi] and [IT:si], which are used when the subject performs an action on itself.
+
+[PAUSE 2s]
+
+Fourth, the pronoun [IT:ne], which indicates quantity or refers to a topic.
+
+[PAUSE 2s]
+
+And fifth, combined pronouns like [IT:glielo], which merge direct and indirect pronouns for efficiency.
+
+[PAUSE 4s]
+
+Now, let's practice using these pronouns with some translation exercises. I'll say a sentence in English, and after a short pause, I will provide the Italian translation.
+
+[PAUSE 2s]
+
+How would you say "I see her every day"? 
+
+[PAUSE 5s] 
+
+[IT:La vedo ogni giorno.]
+
+[PAUSE 3s]
+
+How would you say "I give it to him"? 
+
+[PAUSE 5s] 
+
+[IT:Glielo do.]
+
+[PAUSE 3s]
+
+How would you say "She tells me everything"? 
+
+[PAUSE 5s] 
+
+[IT:Mi dice tutto.]
+
+[PAUSE 3s]
+
+How would you say "We wash ourselves in the morning"? 
+
+[PAUSE 5s] 
+
+[IT:Ci laviamo la mattina.]
+
+[PAUSE 3s]
+
+How would you say "He sends it to us"? 
+
+[PAUSE 5s] 
+
+[IT:Ce lo manda.]
+
+[PAUSE 4s]
+
+These exercises are designed to help reinforce your understanding of Italian pronouns in various contexts. Keep practicing these structures to gain confidence and fluency.
+
+[PAUSE 3s]
+
+Thank you for joining today's lesson. I hope you found this episode helpful and that you're feeling more confident with Italian pronouns. Feel free to listen to this episode again and keep practicing. 
+
+[PAUSE 2s]
+
+Until next time, [IT:Ciao! A presto!]
+
+[END]
